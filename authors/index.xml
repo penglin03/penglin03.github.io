@@ -17,10 +17,24 @@
       <link>https://penglin03.github.io/authors/admin/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://penglin03.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I am a 5th year Ph.D. student in Computer Science at Washington State University (&lt;a href=&#34;http://wsu.edu&#34; target=&#34;_blank&#34;&gt;WSU&lt;/a&gt;), under the supervision of &lt;a href=&#34;https://scholar.google.com/citations?user=9u7wNjUAAAAJ&amp;amp;hl&#34; target=&#34;_blank&#34;&gt;Dr. Yinghui Wu&lt;/a&gt; and &lt;a href=&#34;https://www.eecs.wsu.edu/~holder/&#34; target=&#34;_blank&#34;&gt;Dr. Lawrence Holder&lt;/a&gt;.
-My research interests span the topics of big data analytics, data mining, knowledge graphs, and data quality. Specifically, my recent work on knowledge graphs develops novel models and algorithms to discover missing facts and correct erroneous information, and has demonstrated significant improvement of efficiency and effectiveness for data quality. Beyond my domain, I also extend my work to agriculture planning and collaborates with a research center &lt;a href=&#34;http://cpaas.wsu.edu/&#34; target=&#34;_blank&#34;&gt;CPAAS&lt;/a&gt; at WSU. An ongoing project aims to develop a smart irrigation strategy supported by knowledge graph techniques to increase the production and profit of fruits.
-The research problems in my Ph.D. research fall under fundamental data management challenge in the era of big data, which plays a crucial role in emerging knowledge-graph-based systems, such as search engine optimization, social networks analysis, natural language processing, and recommendation systems.
-Before joining WSU, I got my M.S. and B.S. degrees in Electrical Engineering from Shanghai Jiao Tong University (&lt;a href=&#34;http://en.sjtu.edu.cn/&#34; target=&#34;_blank&#34;&gt;SJTU&lt;/a&gt;) in China, and worked three years as a software development engineer at &lt;a href=&#34;https://www.marvell.com/&#34; target=&#34;_blank&#34;&gt;Marvell&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;I am a Ph.D. candidate from the &lt;a href=&#34;https://cwru-db-group.github.io/&#34; target=&#34;_blank&#34;&gt;Database Group&lt;/a&gt;
+at &lt;a href=&#34;http://wsu.edu&#34; target=&#34;_blank&#34;&gt;Washington State University&lt;/a&gt;,
+under the supervision of &lt;a href=&#34;https://yinghwu.github.io/&#34; target=&#34;_blank&#34;&gt;Dr. Yinghui Wu&lt;/a&gt;
+and &lt;a href=&#34;https://www.eecs.wsu.edu/~holder/&#34; target=&#34;_blank&#34;&gt;Dr. Lawrence Holder&lt;/a&gt;.
+My research interests span the topics of big data analytics, mining, and management
+over graphs.
+Specifically, I have been working on various data refinement tasks,
+such as knowledge graph completion, error detection and repairing.
+I got my M.S. and B.S. degrees from Shanghai Jiao Tong University (&lt;a href=&#34;http://en.sjtu.edu.cn/&#34; target=&#34;_blank&#34;&gt;SJTU&lt;/a&gt;) in China,
+and worked at &lt;a href=&#34;https://www.marvell.com/&#34; target=&#34;_blank&#34;&gt;Marvell&lt;/a&gt; as SWE before starting my Ph.D.
+&lt;!-- My recent work on fact discovery and data curation has improved such as fact discovery and data curation. --&gt;
+&lt;!-- I also explore domain-specific knowledge-based techniques beyond my research.  --&gt;
+&lt;!-- In a collaborative project with the [CPAAS](http://cpaas.wsu.edu/) center at WSU,  --&gt;
+&lt;!-- I built knowledge graphs to support smart irrigation planning with the goal to increase the production and profitability of fruit farming. --&gt;
+&lt;!-- to improve the usability and validity of data. --&gt;
+&lt;!-- My recent work on fact discovery and data curation has significantly and effectively improved the graph validity and usability.  --&gt;
+&lt;!-- The fundamental data management challenges in the era of big data play a crucial role in emerging knowledge-based systems,  --&gt;
+&lt;!-- such as search engine optimization, social networks analysis, natural language processing, and recommendation systems. --&gt;&lt;/p&gt;
 </description>
     </item>
     
