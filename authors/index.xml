@@ -22,12 +22,12 @@
 at &lt;a href=&#34;http://wsu.edu&#34; target=&#34;_blank&#34;&gt;Washington State University&lt;/a&gt;,
 under the supervision of &lt;a href=&#34;https://yinghwu.github.io/&#34; target=&#34;_blank&#34;&gt;Dr. Yinghui Wu&lt;/a&gt;
 and &lt;a href=&#34;https://www.eecs.wsu.edu/~holder/&#34; target=&#34;_blank&#34;&gt;Dr. Lawrence Holder&lt;/a&gt;.
-My research interests span the topics of big data analytics, mining, and management
-over graphs.
-Specifically, I have been working on various graph refinement problems,
-e.g., link prediction, error detection, and repairing, using either constraint-based or learning-based methods.
-I got my M.S. and B.S. degrees from Shanghai Jiao Tong University (&lt;a href=&#34;http://en.sjtu.edu.cn/&#34; target=&#34;_blank&#34;&gt;SJTU&lt;/a&gt;) in China,
-and worked as SDE at &lt;a href=&#34;https://www.marvell.com/&#34; target=&#34;_blank&#34;&gt;Marvell&lt;/a&gt; before starting my Ph.D.
+My research interests span the topics of graph data analytics, mining, and management.
+Specifically, I have been working on various graph querying and refinement problems for knowledge graphs,
+e.g., link prediction, graph data quality, etc, using either constraint-based or learning-based methods.
+&lt;!-- I got my M.S. and B.S. degrees from Shanghai Jiao Tong University ([SJTU](http://en.sjtu.edu.cn/)). --&gt;
+&lt;!-- in China,  --&gt;
+&lt;!-- and worked as SDE at [Marvell](https://www.marvell.com/) before starting my Ph.D. --&gt;
 &lt;!-- My recent work on fact discovery and data curation has improved such as fact discovery and data curation. --&gt;
 &lt;!-- I also explore domain-specific knowledge-based techniques beyond my research.  --&gt;
 &lt;!-- In a collaborative project with the [CPAAS](http://cpaas.wsu.edu/) center at WSU,  --&gt;
